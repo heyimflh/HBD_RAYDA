@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .glass-card {
+    @apply bg-ivory/80 backdrop-blur-md border border-rose-blush/30 shadow-[0_20px_60px_rgba(217,136,155,0.18)] rounded-[28px];
+  }
+  
+  .glass-card-sm {
+    @apply bg-ivory/80 backdrop-blur-md border border-rose-blush/30 shadow-[0_12px_40px_rgba(217,136,155,0.12)] rounded-2xl;
+  }
+  
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-dusty-rose to-rosewood;
+  }
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: theme('colors.warm-cream');
+}
+::-webkit-scrollbar-thumb {
+  background: theme('colors.rose-blush');
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: theme('colors.dusty-rose');
+}
