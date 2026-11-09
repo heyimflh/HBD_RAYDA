@@ -7,7 +7,7 @@ export const content = {
   calendar: {
     title: "Hari Brojol Rayda",
     meetDate: "2007-11-09T00:00:00",
-    momentName: "Hari dimana lu resmi brojol ke bumi, bro!",
+    momentName: "Hari dimana lu resmi brojol ke bumi!",
     location: "Cikarang",
   },
   gallery: [
@@ -56,7 +56,7 @@ export const content = {
   music: {
     src: "/audio/Shut It Down.mp3",
     title: "Shut It Down",
-    note: "Backsound asyik buat nemenin lu scroll website ini bro."
+    note: "Backsound asyik buat nemenin lu scroll website ini."
   },
   sweetNotes: [
     "JANGAN GAMONIN ALIP LAGI!!",

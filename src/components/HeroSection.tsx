@@ -81,7 +81,7 @@ export function HeroSection() {
         </div>
       </motion.div>
 
-      {/* Chunky Pastel Lilac Clay CTA Pill: "Scroll ke bawah bro 👇" */}
+      {/* Chunky Pastel Lilac Clay CTA Pill: "Scroll ke bawah 👇" */}
       <motion.div 
         animate={{ y: [0, 8, 0] }}
         transition={{ repeat: Infinity, duration: 2.2, ease: "easeInOut" }}
@@ -91,7 +91,7 @@ export function HeroSection() {
           onClick={handleScrollDown}
           className="group inline-flex items-center gap-2.5 px-7 py-3.5 rounded-full bg-[#A78BFA] text-white font-bold text-sm sm:text-base shadow-[5px_5px_14px_rgba(139,92,246,0.35),_-4px_-4px_10px_rgba(255,255,255,0.9),_inset_-3px_-3px_6px_rgba(109,40,217,0.35),_inset_3px_3px_6px_rgba(255,255,255,0.65)] border border-purple-300/80 hover:scale-105 active:scale-95 transition-all duration-200 cursor-pointer select-none"
         >
-          <span className="tracking-wide">Scroll ke bawah bro</span>
+          <span className="tracking-wide">Scroll ke bawah</span>
           <span className="text-lg group-hover:translate-y-0.5 transition-transform duration-200">👇</span>
         </button>
       </motion.div>
