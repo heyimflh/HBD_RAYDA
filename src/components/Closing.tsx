@@ -24,7 +24,7 @@ export function Closing() {
         className="max-w-lg mx-auto z-10"
       >
         <h2 className="font-heading text-3xl md:text-4xl text-rosewood mb-8 leading-tight">
-          "Gua gak tahu ke depannya bakal seseru apa, tapi yang jelas gua bersyukur banget punya sahabat kek lu, Ray. Tetap solid ya bro!"
+          "Gua gak tahu ke depannya bakal seseru apa, tapi yang jelas gua bersyukur banget punya temen kek lu, Ray."
         </h2>
 
         <p className="font-signature text-4xl text-dusty-rose mb-12">

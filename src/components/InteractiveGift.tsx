@@ -153,7 +153,7 @@ export function InteractiveGift() {
           <div className="text-center mb-8 px-4">
             <h3 className="font-body font-extrabold text-3xl sm:text-4xl tracking-tight mb-2 select-none">
               <span className="text-[#5A4036] drop-shadow-[0_2px_0_rgba(255,255,255,0.8)]">Alasan Lu </span>
-              <span className="text-[#FB7185] drop-shadow-[0_2px_0_rgba(255,255,255,0.8)]">Sahabat Terbaik 👊</span>
+              <span className="text-[#FB7185] drop-shadow-[0_2px_0_rgba(255,255,255,0.8)]">Temen Terbaik 👊</span>
             </h3>
             <p className="font-body font-medium text-[#7C6A61] text-base">
               Ketuk kartunya buat baca alasan lainnya.

@@ -5,8 +5,9 @@ export const content = {
     photo: "/images/hero.jpeg",
   },
   calendar: {
+    title: "Hari Brojol Rayda",
     meetDate: "2007-11-09T00:00:00",
-    momentName: "Hari dimana lu resmi spawn ke bumi, bro!",
+    momentName: "Hari dimana lu resmi brojol ke bumi, bro!",
     location: "Cikarang",
   },
   gallery: [
@@ -71,7 +72,7 @@ export const content = {
     "habede ray, semoga hidup kamu selalu di kelilingi keberkahan, keimanan, ketakwaan, ketenangan, kemudahan, kesehatan, dan kemenangan. semoga hal-hal baik selalu berdatangan satu persatu ke hidup kamu ya ray,",
     "intinya dari gua lu harus udah STOP GAMONIN SI ALIP COWO BRENGSEK ITU. Lu tuh berharga banget ray, jangan buang-buang waktu dan air mata lu buat mikirin orang yang gak pantes. Fokus bahagia dan upgrade diri lu!",
     "Gak kerasa ya kita udah temenan selama ini. Dari jaman seru-seruan bareng, pusing kesantrian, jajan cakuwe im, sampe tragedi cimol muncrat di Asia Afrika. Makasih banyak udah selalu ada jadi temen cerita dan saling support.",
-    "Di umur lu yang baru ini, pokoknya lu wajib makin bahagia, makin waras, dan makin sukses. Kalo butuh temen ngobrol atau butuh diomelin pas mulai oleng lagi, lu tau harus ke mana. Tetep jadi sahabat terbaik gua ya, Ray! Happy Birthday! 🎉👊"
+    "Di umur lu yang baru ini, pokoknya lu wajib makin bahagia, makin waras, dan makin sukses. Kalo butuh temen ngobrol atau butuh diomelin pas mulai oleng lagi, lu tau harus ke mana. Tetep jadi temen terbaik gua ya, Ray! Happy Birthday! 🎉👊"
   ],
   wishlist: [
     { place: "Nongkrong Bareng Ber-12", reason: "Reuni akbar formasi lengkap!", status: "Dream" as const },
@@ -81,30 +82,30 @@ export const content = {
   timeline: [
     { 
       date: "Awal Kenal", 
-      title: "Awal Kenal & Nyambung", 
-      description: "Dari yang awalnya cuma obrolan biasa, eh malah nyambung parah jadi temen deket yang saling support dan ngejek." 
+      title: "Tragedi Lempar Apel Kelas 7", 
+      description: "Sebener nya gua lupa kapan kita deket, tapi gua inget dulu waktu kelas tujuh lu pernah lempar apel gara-gara ga di kasih izin pulang😭" 
     },
     { 
       date: "Momen Seru", 
-      title: "Trip Bogor & Asia Afrika", 
-      description: "Banyak momen ngakak gak masuk akal, dari cimol muncrat sampe foto gaya alien yang legendaris." 
+      title: "Tiap Cerita Lu Selalu Seru", 
+      description: "Banyak si momen seru nya, soalnya setiap lu cerita aja udah seru gua suka ketawa😭" 
     },
     { 
       date: "Suka Duka", 
-      title: "Curhat & Pusing Bareng", 
-      description: "Dari yang pusing urusan kesantrian sampe drama kehidupan, untung selalu ada tempat buat sambat dan ketawa bareng." 
+      title: "Ujung-Ujungnya \"Kangen Alip\" 🙄", 
+      description: "Apapun suka duka nya pasti lu selalu selipin \"kangen alip\" 🙄" 
     },
     { 
       date: "Hari Ini & Seterusnya", 
-      title: "Happy Birthday Rayda!", 
-      description: "Hari ini hari spesial lu, Ray! Semoga persahabatan kita awet terus, sukses bareng, dan tetap solid selamanya. Happy birthday, bestie! 🎂🎉" 
+      title: "Selamat Hari Brojol Rayda! 🎉", 
+      description: "Hari ini hari brojol lu, semoga dengan bertambah nya umur ini hidup lu semakin baik ya ray! semoga wishlist lu bisa kesampaian satu persatu" 
     }
   ],
   reasons: [
-    "Karena lu orangnya asyik diajak ngobrol apa aja tanpa perlu jaim.",
-    "Karena lu selalu bisa bikin suasana tongkrongan jadi rame dan pecah.",
-    "Karena lu temen yang loyal dan selalu ada pas dibutuhin.",
-    "Karena gaya lu selalu unik dan pose foto lu gak ada duanya wkwk.",
-    "Karena lu adalah Rayda, sohib terbaik yang gak bakal tergantikan!"
+    "Karna lu suka ngajarin gua bahasa inggris dan banyak lah lu suka ajarin gua",
+    "Karna lu suka banyak cerita & cerita nya selalu seru",
+    "Karena lu temen yang loyal dan selalu ada dimanapun dan kapan pun",
+    "Soal nya lu my idol",
+    "Karna lu suka lagu nia nia"
   ]
 };

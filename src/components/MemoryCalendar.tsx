@@ -28,7 +28,7 @@ export function MemoryCalendar() {
           <div className="bg-[#FB7185] py-4 px-6 shadow-[inset_0_-3px_6px_rgba(0,0,0,0.12),inset_0_2px_4px_rgba(255,255,255,0.4)] flex items-center justify-center gap-2 select-none">
             <CalendarHeart className="w-5 h-5 text-white filter drop-shadow-sm" />
             <span className="text-white font-body font-bold text-xs sm:text-sm tracking-widest uppercase drop-shadow-sm">
-              Tanggal Spawn Rayda
+              {content.calendar.title || "Hari Brojol Rayda"}
             </span>
           </div>
 

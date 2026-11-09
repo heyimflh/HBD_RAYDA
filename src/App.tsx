@@ -76,7 +76,7 @@ function App() {
           
           <Wishlist />
           
-          <SectionWrapper bottomWaveColor="text-[#FDF8EE]" isClayWave={true}>
+          <SectionWrapper bottomWaveColor="text-[#FCE4EC]" isClayWave={true}>
             <Timeline />
           </SectionWrapper>
           

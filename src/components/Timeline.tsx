@@ -44,7 +44,7 @@ export function Timeline() {
           </motion.div>
           <h2 className="font-body font-extrabold text-3xl sm:text-4xl tracking-tight select-none">
             <span className="text-[#5A4036] drop-shadow-[0_2px_0_rgba(255,255,255,0.8)]">Timeline Pertemanan </span>
-            <span className="text-[#FB7185] drop-shadow-[0_2px_0_rgba(255,255,255,0.8)]">Kita 🚀</span>
+            <span className="text-[#FB7185] drop-shadow-[0_2px_0_rgba(255,255,255,0.8)]">Kita</span>
           </h2>
         </div>
         

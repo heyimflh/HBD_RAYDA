@@ -115,7 +115,7 @@ export function DaysCounter() {
         
         {/* Description Text Below */}
         <p className="font-body font-medium text-[#7C6A61] text-base sm:text-lg max-w-md mx-auto leading-relaxed">
-          sejak lu pertama kali lahir ke dunia sampai hari ini. Dan gua bersyukur bisa kenal sahabat seheboh lu, Ray!
+          sejak lu pertama kali lahir ke dunia sampai hari ini. Dan gua bersyukur bisa kenal temen seheboh lu, Ray!
         </p>
       </motion.div>
     </section>
